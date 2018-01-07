@@ -2,5 +2,7 @@
     "files.autoSave": "on",
     "workbench.colorTheme": "Darcula Theme from IntelliJ",
     "workbench.editor.enablePreview": false,
-    "editor.scrollBeyondLastLine": false
+    "editor.scrollBeyondLastLine": false,
+    "explorer.autoReveal": false
+
 }
